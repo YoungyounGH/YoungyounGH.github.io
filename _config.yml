@@ -23,10 +23,10 @@ repository               : "YoungyounGH/YoungyounGH.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Yang Hao(杨浩)"
+  name             : "Yang Hao (杨浩)"
   pronouns         : # example: "she/her"  
-  bio              : 
-  location         : "China"
+  bio              : # 
+  location         : "China Chongqing"
   employer         : 
   uri              : # URL
   email            : # "youngh0816@163.com" 
