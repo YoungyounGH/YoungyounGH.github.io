@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a newcomer in the field of computer vision, and my research direction is audio-driven video generation.
+I'm a newcomer in the field of computer vision, and my research direction is audio-driven video generation.
+
 
 Email: youngh0816@163.com
