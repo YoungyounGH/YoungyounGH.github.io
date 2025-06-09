@@ -10,4 +10,4 @@ redirect_from:
 
 I am a newcomer in the field of computer vision, and my research direction is audio-driven video generation.
 
-[Email](mailto:youngh0816@163.com)
+[Email](youngh0816@163.com)
